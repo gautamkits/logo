@@ -1,25 +1,15 @@
 <!--?xml version="1.0" encoding="UTF-8"?-->
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <title>PlanMyList BIMI Logo</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" width="512" height="512" viewBox="0 0 512 512">
 
-  <!-- Transparent background (BIMI-friendly). No gradients. -->
+  <title>PlanMyList</title>
 
-  <!-- Clipboard icon in brand color -->
   <g fill="none" stroke="#5B5CEB" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
-    <!-- Clipboard body -->
     <rect x="150" y="140" width="212" height="260" rx="28" ry="28"></rect>
-
-    <!-- Clip/top -->
-    <path d="M210 140
-             C210 116 230 96 256 96
-             C282 96 302 116 302 140"></path>
-
-    <!-- Clip plate -->
+    <path d="M210 140 C210 116 230 96 256 96 C282 96 302 116 302 140"></path>
     <rect x="212" y="110" width="88" height="64" rx="16" ry="16"></rect>
-
-    <!-- List lines -->
     <path d="M196 220 H316"></path>
     <path d="M196 270 H316"></path>
     <path d="M196 320 H316"></path>
   </g>
+
 </svg>
